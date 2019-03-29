@@ -1,5 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
 
 ## This function takes a matrix as argument, used to set and get it's value. 
 #It must be a square matrix to also set and get the inverse
@@ -36,10 +34,3 @@ cacheSolve <- function(x, ...) {
 }
 
 
-
-# make.power <- function(n){
-#    pow <- function(x){
-#       x^n
-#    }
-#    pow
-# }
